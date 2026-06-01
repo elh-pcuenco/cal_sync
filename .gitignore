@@ -1,0 +1,27 @@
+# Secrets
+secrets/
+
+# Virtual environment
+venv/
+
+# Logs
+*.log
+
+# Databases
+*.db
+
+# Backups
+*.bak
+*.bak.py
+
+# Downloaded libraries
+google-api-python-client/
+google-auth-httplib2/
+google-auth-oauthlib/
+
+# Install files
+install/
+
+# Python cache
+__pycache__/
+*.pyc
