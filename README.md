@@ -6,6 +6,8 @@ Calendar Sync is a Python-based utility that synchronizes events from multiple G
 
 The application is designed to provide visibility across multiple source calendars without requiring users to subscribe to numerous calendars individually. Events are mirrored from source calendars into a designated destination calendar and kept synchronized on a scheduled basis.
 
+Currently, the aggregate calendar is under 'demo4' calendar.  The 'sources' are for Operations, and svc.email calendar which synchronizes with iiQ.
+
 ## Features
 
 * Synchronizes events from multiple Google Calendars into a single destination calendar.
